@@ -1,0 +1,12 @@
+Catatan :
+
+Disetiap folder terdapat 3 file yaitu :
+1. main.go
+2. go.modul
+3. exe
+
+Jika ingin menjalankan file main.go :
+1. go run main.go
+2. go run .
+
+Saya sudah sediakan exenya disetiap folder jadi tinggal dijalankan saja 
